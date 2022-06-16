@@ -11,7 +11,7 @@
 
 ## Inicializar projeto
 
-1. Run 'npm install'.OR<br />
+1. Run 'npm install'.<br />
 
 2. Run 'npm run start'. OR <br />
 2. Run 'npm run start:dev'. OR <br />
@@ -22,4 +22,4 @@
 
 1. Run 'npm run test'. OR <br />
 1. Run 'npm run test:e2e'. OR <br />
-1. Run 'npm run test:cov' <br />
+1. Run 'npm run test:cov'. <br />
